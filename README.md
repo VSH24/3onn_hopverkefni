@@ -40,4 +40,5 @@
   <li>sett verkáætlun á <i> github- issues - milestones</i></li>
   <li><a href="https://github.com/VSH24/3onn_hopverkefni/wiki">búið til ýtarlega greinargerð í Wiki skránni</a></li>
   <li>sett inn vinnugögn sem ekki eru á miðlara (tsuts)</li>
+  <li>sjá nánar á: https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes</li>
 </ol>
