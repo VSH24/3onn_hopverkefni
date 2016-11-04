@@ -10,7 +10,7 @@
   <li>sjá nánar á: https://guides.github.com/activities/hello-world/#branch </li>
  </ol>
 
- ### Á Github geta nemendur:
+### Á Github geta nemendur:
 <ol>
   <li>stofnað geymslu e. <i>"repository"</i> um verkefni</li>
   <li> Stofnandi geymslunnar getur bætt við notendum (<i>contributors</i>) með sömu réttindum og hann sjálfur hefur á geymslunni . </li>
