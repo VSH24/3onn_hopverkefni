@@ -1,5 +1,11 @@
 #Hópverkefni tölvubrautar á 3 önn 
 
+## Verkefnalýsing
+<ol>
+  <li>Viðfangsefni</li>
+  <li>Hópastærð</li>
+  <li>Mæting</li>
+</ol>
 ## Skipulag:
 <ol>
   <li>Tímabil: frá 14. nóvember til 4. desember</li>
