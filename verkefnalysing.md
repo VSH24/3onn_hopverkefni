@@ -1,15 +1,14 @@
-# Hópverkefni
-##Tölvubraut 3 önn 
+#Hópverkefni tölvubrautar á 3 önn 
 
-### Skipulag:
+## Skipulag:
 <ol>
-  <li>Tímabil </li>
-  <li>Verkstjórn</li>
-  <li>Verkefnaskil</li>
-  <li>Kynning</li>
+  <li>Tímabil: frá 14. nóvember til 4. desember</li>
+  <li>Verkstjórn og útgáfustýring: Git</li>
+  <li>Verkefnaskil og kynning</li>
 </ol>
 
-### Námsmat:
+## Námsmat:
+### 20% af heildareinkunn hvers áfanga
 <ol>
   <li>Samstarf</li>
   <li>Verkstjórn</li>
