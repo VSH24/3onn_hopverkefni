@@ -29,7 +29,7 @@
   <li>Unnið að sama verkefni í mismunandi útgáfum 
   <li>Unnið í sama skjali eða kóða, í mismunandi greinum (e. branches)
   <li>Búið til greinar og sett aftur í aðalskjalið(e. master)</li>
-  <li>sjá nánar á: https://guides.github.com/activities/hello-world/#branch </li>
+  <li>sjá nánar á: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell </li>
 </ol>
 
 ### Á Github geta nemendur:
