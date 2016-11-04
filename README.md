@@ -29,7 +29,7 @@
   <li>Unnið að sama verkefni í mismunandi útgáfum 
   <li>Unnið í sama skjali eða kóða, í mismunandi greinum (e. branches)
   <li>Búið til greinar og sett aftur í aðalskjalið(e. master)</li>
-  <li>sjá nánar á: https://guides.github.com/activities/hello-world/#branch </li>
+  <li>sjá nánar á: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell </li>
 </ol>
 
 ### Á Github geta nemendur:
@@ -40,4 +40,5 @@
   <li>sett verkáætlun á <i> github- issues - milestones</i></li>
   <li><a href="https://github.com/VSH24/3onn_hopverkefni/wiki">búið til ýtarlega greinargerð í Wiki skránni</a></li>
   <li>sett inn vinnugögn sem ekki eru á miðlara (tsuts)</li>
+  <li>sjá nánar á: https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes</li>
 </ol>
