@@ -1,7 +1,7 @@
 #Hópverkefni tölvubrautar á 3 önn 
 
 ## Skipulag:
-<ol>
+<ul>
   <li>Vika 45. (14.-19.nóvember)
     <ul>
       <li>Einstaklingsverkefni: Útgáfustýring með Git</li>
@@ -14,7 +14,7 @@
       <li>Vika 48. Kynning á hópverkefninu</li>
     </ul>
   </li>
-</ol>
+</ul>
 
 ## Námsmat:
 ### 20% af heildareinkunn hvers áfanga
