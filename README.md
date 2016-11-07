@@ -1,44 +1,26 @@
 #Hópverkefni tölvubrautar á 3 önn 
 
-## Verkefnalýsing
-<ol>
-  <li>Viðfangsefni</li>
-  <li>Hópastærð</li>
-  <li>Mæting</li>
-</ol>
 ## Skipulag:
-<ol>
-  <li>Tímabil: frá 14. nóvember til 4. desember</li>
-  <li>Verkstjórn og útgáfustýring: Git</li>
-  <li>Verkefnaskil og kynning</li>
-</ol>
+<ul>
+  <li>Vika 45. (14.-19.nóvember)
+    <ul>
+      <li>Einstaklingsverkefni: Útgáfustýring með Git</li>
+    </ul>
+  </li>
+  <li>Vika 46-47. (20.nóvember - 4.desember)
+    <ul>   
+      <li>Hópverkefni (2-3 nemendur)</li>
+      <li>Verkstjórn og útgáfustýring: Git og Github</li>
+      <li>Vika 48. Kynning á hópverkefninu</li>
+    </ul>
+  </li>
+</ul>
 
 ## Námsmat:
 ### 20% af heildareinkunn hvers áfanga
-<ol>
-  <li>Samstarf</li>
-  <li>Verkstjórn</li>
-  <li>Verkefni</li>
-  <li>Kynning</li>
-</ol>
-
-## Git útgáfustýring - Git version control system 
-
-### Á Git geta nemendur:
-<ol>
-  <li>Unnið að sama verkefni í mismunandi útgáfum 
-  <li>Unnið í sama skjali eða kóða, í mismunandi greinum (e. branches)
-  <li>Búið til greinar og sett aftur í aðalskjalið(e. master)</li>
-  <li>sjá nánar á: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell </li>
-</ol>
-
-### Á Github geta nemendur:
-<ol>
-  <li>stofnað geymslu e. <i>"repository"</i> um verkefni</li>
-  <li> Stofnandi geymslunnar getur bætt við notendum (<i>contributors</i>) með sömu réttindum og hann sjálfur hefur á geymslunni . </li>
-  <li> notendur (<i>contributors</i>) geta breytt og bætt við efni eins og stofnandinn. </li>
-  <li>sett verkáætlun á <i> github- issues - milestones</i></li>
-  <li><a href="https://github.com/VSH24/3onn_hopverkefni/wiki">búið til ýtarlega greinargerð í Wiki skránni</a></li>
-  <li>sett inn vinnugögn sem ekki eru á miðlara (tsuts)</li>
-  <li>sjá nánar á: https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes</li>
-</ol>
+<ul>
+  <li>Einstaklingsverkefni: 7%</li>
+  <li>Útgáfustýring: Git og Github 6.5%</li>
+  <li>Hópverkefni: 6.5%</li>
+  <li>Í lok verkefnis á að búa til <a href="https://github.com/VSH24/VSH2A-hopverkefni/wiki">greinargerð í Wiki skránni</a></li>
+</ul>
