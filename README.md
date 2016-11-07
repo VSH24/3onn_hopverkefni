@@ -19,8 +19,8 @@
 ## Námsmat:
 ### 20% af heildareinkunn hvers áfanga
 <ul>
-  <li>Einstaklingsverkefni: 5%</li>
-  <li>Útgáfustýring: Git og Github 5%</li>
-  <li>Hópverkefni: 10%</li>
-  <li><a href="https://github.com/VSH24/3onn_hopverkefni/wiki">Í lok verkefnis á að búa til greinargerð í Wiki skránni</a></li>
+  <li>Einstaklingsverkefni: 7%</li>
+  <li>Útgáfustýring: Git og Github 6.5%</li>
+  <li>Hópverkefni: 6.5%</li>
+  <li>Í lok verkefnis á að búa til <a href="https://github.com/VSH24/VSH2A-hopverkefni/wiki">greinargerð í Wiki skránni</a></li>
 </ul>
