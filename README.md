@@ -20,8 +20,8 @@
 ### 20% af heildareinkunn hvers áfanga
 <ul>
   <li>Einstaklingsverkefni: 5%</li>
-  <li>Hópverkefni: 10%</li>
   <li>Útgáfustýring: Git og Github 5%</li>
+  <li>Hópverkefni: 10%</li>
 </ul>
 
 ## Git útgáfustýring - Git version control system 
