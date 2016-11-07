@@ -11,7 +11,7 @@
     <ul>   
       <li>Hópverkefni (2-3 nemendur)</li>
       <li>Verkstjórn og útgáfustýring: Git og Github</li>
-      <li>Kynning</li>
+      <li>Vika 48. Kynning á hópverkefninu</li>
     </ul>
   </li>
 </ol>
@@ -19,11 +19,11 @@
 ## Námsmat:
 ### 20% af heildareinkunn hvers áfanga
 <ol>
-  <li>Einstaklingsverkefni: 7%</li>
+  <li>Einstaklingsverkefni: 5%</li>
 </ol>
 <ol>
-  <li>Hópverkefni: 6.5%</li>
-  <li>Verkstjórn og útgáfustýring: Git og Github</li>
+  <li>Hópverkefni: 10%</li>
+  <li>Útgáfustýring: Git og Github 5%</li>
 </ol>
 
 ## Git útgáfustýring - Git version control system 
