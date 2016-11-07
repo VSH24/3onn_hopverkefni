@@ -18,13 +18,11 @@
 
 ## Námsmat:
 ### 20% af heildareinkunn hvers áfanga
-<ol>
+<ul>
   <li>Einstaklingsverkefni: 5%</li>
-</ol>
-<ol>
   <li>Hópverkefni: 10%</li>
   <li>Útgáfustýring: Git og Github 5%</li>
-</ol>
+</ul>
 
 ## Git útgáfustýring - Git version control system 
 
