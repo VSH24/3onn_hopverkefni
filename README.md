@@ -18,9 +18,17 @@
 
 ## Námsmat:
 ### 20% af heildareinkunn hvers áfanga
-<ul>
-  <li>Einstaklingsverkefni: 7%</li>
-  <li>Útgáfustýring: Git og Github 6.5%</li>
-  <li>Hópverkefni: 6.5%</li>
-  <li>Í lok verkefnis á að búa til <a href="https://github.com/VSH24/VSH2A-hopverkefni/wiki">greinargerð í Wiki skránni</a></li>
-</ul>
+<ol>
+  <li>Einstaklingsverkefni:
+    <ul>
+      <li>Útgáfustýring: Git 4% og Github 4%</li>
+    </ul>
+  </li>
+  <li>Hópverkefni: 12%
+    <ul>
+      <li>Útgáfustýring með Git og GitHub 4%</li>
+      <li>Afurð 8%  (frjálst val á viðfangsefni)<li>
+    </ul>
+  </li>
+  <li>Í lok verkefnis á að búa til <a href="https://github.com/VSH24/VSH2A-hopverkefni/wiki">greinargerð um verkefnið (Wiki skrá)</a></li>
+</ol>
