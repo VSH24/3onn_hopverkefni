@@ -30,5 +30,5 @@
       <li>Afurð 8%  <i> -frjálst val á viðfangsefni</i></li>
     </ul>
   </li>
-  <li>Í lok verkefnisins á að skrifa <a href="https://github.com/VSH24/3onn_hopverkefni/wiki">greinargerð um verkefnið (Wiki skrá)</a> </li>
+  <li>Í lok verkefnisins á að skrifa <a href="https://github.com/VSH24/github_verkefni/wiki">greinargerð um verkefnið (Wiki skrá)</a> </li>
 </ul>
